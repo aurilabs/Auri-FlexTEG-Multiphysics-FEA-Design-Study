@@ -67,6 +67,6 @@ Matematiksel titizlikten ödün vermeden hesaplama kaynaklarını optimize etmek
 
 ***
 *(Görseller `images/` klasörünün altındadır / Images are stored under `images/` folder)*
-![Mesh Structure](images/mesh_structure.png)
-![Thermal Gradient](images/thermal_gradient.png)
-![Voltage Output](images/voltage_output.png)
+![Mesh Structure](V2/mesh_structure.png)
+![Thermal Gradient](V2/thermal_gradient.png)
+![Voltage Output](V2/voltage_output.png)
