@@ -20,8 +20,8 @@ The model incorporates precise isotropic material properties derived from analyt
 * **Thermal Conductivity ($k$):** $0.4 \text{ W/(m·K)}$
 * **Density ($\rho$):** $1200 \text{ kg/m}^3$ | **Heat Capacity ($C_p$):** $1500 \text{ J/(kg·K)}$
 * **Aerodynamic Heat Flux Split (Convective Cooling at $25^\circ\text{C}$):**
-  * *Fin Tips & Flanks ($礼_1$):* Assigned $h = 50 \text{ W/(m}^2\text{·K)}$ to simulate direct exposure to high-velocity industrial drafts.
-  * *Basal Valleys ($h_2$):* Assigned a reduced $h = 15 \text{ W/(m}^2\text{·K)}$ to model fluid stagnation zones and thermal boundary layer buildup between fins.
+  * *Fin Tips & Flanks:* Assigned $h = 50 \text{ W/(m}^2\text{·K)}$ to simulate direct exposure to high-velocity industrial drafts.
+  * *Basal Valleys:* Assigned a reduced $h = 15 \text{ W/(m}^2\text{·K)}$ to model fluid stagnation zones and thermal boundary layer buildup between fins.
 
 ### 4. Engineering Assumptions & Abstractions
 To optimize computational resources without compromising mathematical rigor, two key engineering abstractions were utilized in this V2 model:
@@ -53,8 +53,8 @@ Model, $\text{Ag}_2\text{Se}/\text{PEDOT:PSS}$ esnek kompozitlerinin analitik s�
 * **Termal İletkenlik ($k$):** $0.4 \text{ W/(m·K)}$
 * **Yoğunluk ($\rho$):** $1200 \text{ kg/m}^3$ | **Isı Sığası ($C_p$):** $1500 \text{ J/(kg·K)}$
 * **Aerodinamik Isı Akısı Dağılımı ($25^\circ\text{C}$ Ortam Sıcaklığında):**
-  * *Kanatçık Uçları ve Yan Duvarlar ($h_1$):* Endüstriyel hava akımlarına doğrudan maruz kalmayı simüle etmek için $h = 50 \text{ W/(m}^2\text{·K)}$ atanmıştır.
-  * *Taban Boşlukları ($h_2$):* Kanatçıklar arasında oluşan akış durgunluk bölgelerini ve termal sınır tabakası birikimini modellemek için düşürülmüş bir değer olan $h = 15 \text{ W/(m}^2\text{·K)}$ atanmıştır.
+  * *Kanatçık Uçları ve Yan Duvarlar:* Endüstriyel hava akımlarına doğrudan maruz kalmayı simüle etmek için $h = 50 \text{ W/(m}^2\text{·K)}$ atanmıştır.
+  * *Taban Boşlukları:* Kanatçıklar arasında oluşan akış durgunluk bölgelerini ve termal sınır tabakası birikimini modellemek için düşürülmüş bir değer olan $h = 15 \text{ W/(m}^2\text{·K)}$ atanmıştır.
 
 ### 4. Mühendislik Kabulleri ve Soyutlamalar
 Matematiksel titizlikten ödün vermeden hesaplama kaynaklarını optimize etmek için bu V2 modelinde iki temel mühendislik soyutlaması kullanılmıştır:
