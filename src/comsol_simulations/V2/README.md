@@ -66,7 +66,7 @@ Matematiksel titizlikten ödün vermeden hesaplama kaynaklarını optimize etmek
 * **Voltaj Üretimi:** Çoklu-fizik çözücü, toplamda **$\sim 43 \text{ mV}$** değerinde bir potansiyel farkı (zıt kutuplarda $\pm 21.5 \text{ mV}$) başarıyla hesaplamıştır. Bu sonuç, düz monolitik V1 taban modeline ($7.5 \text{ mV}$) kıyasla **~6 katlık bir artışı** temsil etmekte ve pasif endüstriyel ortamlarda geometrik yüzey alanı mühendisliğinin uygulanabilirliğini matematiksel olarak kanıtlamaktadır.
 
 ***
-*(Görseller `images/` klasörünün altındadır / Images are stored under `images/` folder)*
-![Mesh Structure](V2/mesh_structure.png)
-![Thermal Gradient](V2/thermal_gradient.png)
-![Voltage Output](V2/voltage_output.png)
+
+![Mesh Structure](mesh_structure.png)
+![Thermal Gradient](thermal_gradient.png)
+![Voltage Output](voltage_output.png)
