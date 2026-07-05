@@ -51,3 +51,7 @@ Ar-Ge süreçlerinde başarısızlıklar en değerli verilerdir. V3 hibrit model
 
 ### 4. V4 Yol Haritası
 V3 silindirik makro-modeli, hibrit soğutucunun termodinamiğini başarıyla kanıtlamıştır. Bir sonraki aşama olan **V4 (Mikro-Mimari)**, 3 boyutlu silindirik ortamdan 2 boyutlu düzlemsel (planar) bir çalışma alanına geçecektir. V4, esnek PCB tarzı tasarıma odaklanacak; p-n eklemlerini ve iletken gümüş mürekkep yollarını doğrudan fiziksel üretime (DIW - Direct Ink Writing) uygun hale getirecek şekilde optimize edecektir.
+
+![Mesh Structure](images/mesh_structure.png)
+![Thermal Gradient](images/thermal_gradient.png)
+![Voltage Output](images/voltage_output.png)
