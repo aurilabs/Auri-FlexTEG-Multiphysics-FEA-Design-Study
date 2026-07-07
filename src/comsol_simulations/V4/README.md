@@ -43,8 +43,8 @@ Industrial applications rarely offer ideal conditions. We stress-tested the 5x4 
 
 *Calculated Power Output:* $P_{max} = V_{oc}^2 / (4 \cdot R_{int}) \approx 4.15\text{ mW}$
 
-![Temperature Gradient - Bad Conditions](images/temperature_gradient_bad-conditions_2.jpg)
-![Electrical Potential - Bad Conditions](images/electrical_potential_bad-conditions_2.png)
+![Temperature Gradient - Bad Conditions](images/temperature_gradient_bad-conditions.jpg)
+![Electrical Potential - Bad Conditions](images/electrical_potential_bad-conditions.png)
 
 ### Phase 5: Commercial Band Validation
 A final expansion into a longer commercial patch format confirmed the scalability of the V4 design. The matrix efficiently maintained its potential across the extended surface, proving that voltage remains stable while global internal resistance drops linearly.
@@ -108,8 +108,8 @@ Endüstriyel boru hatları asla ideal laboratuvar koşullarında bulunmaz. 5x4 m
 
 *Hesaplanan Maksimum Güç:* $P_{max} = V_{oc}^2 / (4 \cdot R_{int}) \approx 4.15\text{ mW}$
 
-![Sıcaklık Gradyanı - Kötü Şartlar](images/temperature_gradient_bad-conditions_2.jpg)
-![Elektriksel Potansiyel - Kötü Şartlar](images/electrical_potential_bad-conditions_2.png)
+![Sıcaklık Gradyanı - Kötü Şartlar](images/temperature_gradient_bad-conditions.jpg)
+![Elektriksel Potansiyel - Kötü Şartlar](images/electrical_potential_bad-conditions.png)
 
 ### Aşama 5: Nihai Ticari Bant Doğrulaması
 Matrisin ticari bir "yama" (patch) formatına doğru genişletilmesi, V4 tasarımının ölçeklenebilirliğini doğruladı. Genişletilmiş matris, düşman şartlar altındaki potansiyelini istikrarlı bir şekilde koruyarak, boyut büyüdükçe voltajın sabit kalıp iç direncin düştüğünü fiziksel olarak ispatladı.
