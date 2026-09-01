@@ -1,4 +1,4 @@
-# Auri Labs: Solid-State Thermoelectric Composites R&D
+# Auri Labs: Solid-State Thermoelectric Composites Computational Research Archive
 
 Welcome to the computational and theoretical research repository for Auri Labs. This project focuses on the intersection of solid-state physics, polymer chemistry, and materials engineering to investigate advanced energy harvesting mechanisms.
 
